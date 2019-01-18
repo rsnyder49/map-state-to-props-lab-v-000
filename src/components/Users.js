@@ -8,8 +8,7 @@ class Users extends Component {
     return (
       <div>
         <ul>
-          Users!
-        </ul>
+          {users}
       </div>
     )
   }
